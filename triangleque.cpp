@@ -1,5 +1,4 @@
-// Given a three  number each number represent the length of a line . you need to figure out wether these lines can 
-// form a valid triangle.
+// Given a three  number each number represent the length of a line . you need to figure out wether these lines can form a valid triangle.
 
 
 #include <iostream>
