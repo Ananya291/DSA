@@ -1,3 +1,4 @@
+// Given a int n print all number from 0 to N part of fibonacci sequence
 #include <iostream>
 using namespace std;
 
