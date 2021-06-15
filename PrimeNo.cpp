@@ -1,3 +1,4 @@
+// given a positive int number N .print all prime number occur in range from 1 to N.
 #include <iostream>
 using namespace std;
 
